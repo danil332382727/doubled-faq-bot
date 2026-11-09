@@ -10,7 +10,7 @@ from aiogram.client.default import DefaultBotProperties
 # Вставьте сюда токен вашего FAQ-бота из BotFather
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 # Юзернейм менеджера для прямой связи (без символа @)
-MANAGER_USERNAME = "Double_DD_Manager" 
+MANAGER_USERNAME = "Danlorchik" 
 
 bot = Bot(
     token=BOT_TOKEN, 
